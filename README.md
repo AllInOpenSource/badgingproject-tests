@@ -2,6 +2,8 @@
 
 ![Bronze badge](https://raw.githubusercontent.com/AllInOpenSource/ProjectBadging/main/src/assets/images/badges/badge.svg)
 
+![Bronze badge](https://raw.githubusercontent.com/AllInOpenSource/ProjectBadging/main/src/assets/images/badges/badge.svg)
+
 ![Bronze badge](/home/kaxada/Projects/AllIn/BadgingAPI/assets/badge.svg)
 
 ![Bronze badge](<svg width="244" height="60" viewBox="0 0 244 60" fill="none" xmlns="http://www.w3.org/2000/svg">
